@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Inicio"
+        android:id="@+id/inicio"
+        android:icon="@drawable/ic_home"/>
+    <item android:title="   - 1º ESO"
+        android:id="@+id/primero_eso"/>
+    <item android:title="   - 2º ESO"
+        android:id="@+id/segundo_eso"/>
+    <item android:title="   - 3º ESO"
+        android:id="@+id/tercero_eso"/>
+    <item android:title="   - 4º ESO"
+        android:id="@+id/cuarto_eso"/>
+
+</menu>

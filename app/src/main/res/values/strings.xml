@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BiblioDeposito</string>
+    <string name="inicio">Inicio</string>
+    <string name="primero_eso">1º ESO</string>
+    <string name="segundo_eso">2º ESO</string>
+    <string name="tercero_eso">3º ESO</string>
+    <string name="cuarto_eso">4º ESO</string>
+</resources>
