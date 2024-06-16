@@ -1,8 +1,37 @@
 <resources>
     <string name="app_name">BiblioDeposito</string>
     <string name="inicio">Inicio</string>
+    <string name="libros">Libros</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_devolver">Devolver</string>
+    <string name="btn_donar">Donar</string>
+    <string name="btn_alquilar">Alquilar</string>
+    <string name="btn_gestionar">Gestionar</string>
+    <string name="btn_borrar">Borrar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_guardar">Guardar</string>
+
+    <string name="str_titulo">Titulo</string>
+    <string name="str_isbn">ISBN</string>
+    <string name="str_autor">Autor</string>
+    <string name="str_materia">Materia</string>
+    <string name="str_curso">Curso</string>
+    <string name="str_anio_publicacion">Año Publicacion</string>
+    <string name="str_danio">Daño</string>
+
+    <string name="str_hintTitulo">Titulo</string>
+    <string name="str_hintIsbn">Isbn</string>
+    <string name="str_hintAutor">Autor</string>
+    <string name="str_hintMateria">Materia</string>
+    <string name="str_hintCurso">Curso</string>
+    <string name="str_hintAnioPublicacion">Año publicacion</string>
+    <string name="str_hintDanio">Daño</string>
+
+    <string name="user">User</string>
     <string name="primero_eso">1º ESO</string>
     <string name="segundo_eso">2º ESO</string>
     <string name="tercero_eso">3º ESO</string>
     <string name="cuarto_eso">4º ESO</string>
+    <string name="open_nav">Open navigation drawer</string>
+    <string name="close_nav">Close navigation drawer</string>
 </resources>
